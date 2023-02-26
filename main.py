@@ -1,5 +1,5 @@
 from bs4 import BeautifulSoup
-import requests,openpyxl
+import requests openpyxl
 
 excel=openpyxl.Workbook()
 sheet=excel.active
